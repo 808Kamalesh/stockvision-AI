@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pkl
+*.joblib
+
+# Virtual Environment
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Model files and datasets
+model/
+*.csv
+*.xlsx
+
+# OS/System files
+Thumbs.db
+
+# Secrets
+.env
